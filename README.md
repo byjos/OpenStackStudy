@@ -1,2 +1,2 @@
 # OpenStackStudy
-nova and monitor
+nova and monitor server
